@@ -1,4 +1,4 @@
-# WAGRIMS | Global Conflict Intelligence Dashboard
+# WAGRIMS | World Affairs & Geopolitical Risk Intelligence Monitoring System
 
 ### Interactive Data Analytics & Geopolitical Conflict Monitoring Platform
 
