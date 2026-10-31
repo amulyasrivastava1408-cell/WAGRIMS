@@ -2,6 +2,8 @@
 
 ### Interactive Data Analytics & Geopolitical Conflict Monitoring Platform
 
+### Live Dashboard - https://wagrims-1.onrender.com/
+
 <p align="center">
   <strong>Exploring global conflict patterns, event frequency, regional instability, and human impact through interactive data visualization.</strong>
 </p>
